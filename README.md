@@ -1,6 +1,9 @@
 # The_Possession_Paradox
 This project investigates whether having more possession and completing more passes always leads to winning a football match.  The case study is Germany vs Japan in the FIFA World Cup 2022, where Germany dominated possession and passing statistics but lost the match 2-1.
 
+Data Source: FIFA World Cup 2022 Official Match Report and MLPSOCCER
+
+Colab Link: https://colab.research.google.com/drive/1lmfM7wr3shIXarL8UsY4DXD-Ni4rfQiY?usp=sharing
 
 ### Conclusion: The Illusion of Control
 
